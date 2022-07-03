@@ -1,0 +1,4 @@
+#Sun Jul 03 20:50:40 GET 2022
+base.0=D\:\\UNITY\\TestProject\\Temp\\gradleOut\\launcher\\build\\intermediates\\dex\\release\\out\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex

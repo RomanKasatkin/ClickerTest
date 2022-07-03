@@ -1,0 +1,108 @@
+Using pre-set license
+Built from '2020.3/staging' branch; Version is '2020.3.11f1 (99c7afb366b3) revision 10078127'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10 Enterprise; OS build 19044.1766; Version 2009; 64bit' Language: 'ru' Physical Memory: 8077 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+ COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\2020.3.11f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+D:/UNITY/TestProject
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+63729
+Successfully changed project path to: D:/UNITY/TestProject
+D:/UNITY/TestProject
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 155.13 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.3.11f1 (99c7afb366b3)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2020.3.11f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path D:/UNITY/TestProject/Assets
+GfxDevice: creating device client; threaded=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GT 635M (ID=0xde3)
+    Vendor:   
+    VRAM:     1990 MB
+    Driver:   23.21.13.9135
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2020.3.11f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2020.3.11f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/2020.3.11f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56324
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.11f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.004514 seconds.
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 160.50 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in 11.363 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.033853 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.73 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.839 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.10 seconds
+Refreshing native plugins compatible for Editor in 0.85 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3118 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 108.9 MB.
+System memory in use after: 109.1 MB.
+
+Unloading 21 unused Assets to reduce memory usage. Loaded Objects now: 3551.
+Total: 2.844900 ms (FindLiveObjects: 0.315800 ms CreateObjectMapping: 0.169800 ms MarkObjects: 2.255900 ms  DeleteObjects: 0.101600 ms)
+
+========================================================================
+Received Import Request.
+  path: Assets/Scenes/SampleScene/GameScene
+  artifactKey: Guid(bff068a89b576844eba3083802caa27a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/SampleScene/GameScene using Guid(bff068a89b576844eba3083802caa27a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dda5fad812c0216c8f449c44df9bfede') in 0.015014 seconds
+  Import took 0.021423 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000556 seconds.
+  path: Assets/Scenes/SampleScene
+  artifactKey: Guid(ab13c9eab341b874aa90dce22978980c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/SampleScene using Guid(ab13c9eab341b874aa90dce22978980c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2cfbd859083bc1d5a3cf5d604be05e02') in 0.010647 seconds
+  Import took 0.018570 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000262 seconds.
+  path: Assets/Scenes/SampleScene/GameScene.unity
+  artifactKey: Guid(9fc0d4010bbf28b4594072e72b8655ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/SampleScene/GameScene.unity using Guid(9fc0d4010bbf28b4594072e72b8655ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'edcaf63e354835fa7d98e5f4f74d3de4') in 0.026853 seconds
+  Import took 0.035633 seconds .
+
+========================================================================
+Received Prepare
+Switching build target platform(13) subTarget(589824) extendedPlatform(0) -> platform(13) subTarget(537395200) extendedPlatform(0)
+Refreshing native plugins compatible for Editor in 8.83 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 14 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 47.5 MB.
+System memory in use after: 47.8 MB.
+
+Unloading 14 unused Assets to reduce memory usage. Loaded Objects now: 3551.
+Total: 3.966800 ms (FindLiveObjects: 0.332600 ms CreateObjectMapping: 0.169400 ms MarkObjects: 3.433500 ms  DeleteObjects: 0.029700 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  buildTarget: platform 13, subtarget 537395200, extendedPlatform 0 -> platform 13, subtarget 589824, extendedPlatform 0
+  graphicsApiMask: 2099200 -> 2304
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
